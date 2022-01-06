@@ -1,0 +1,14 @@
+C:\Temp\NewCoBank\bin\Debug\NewCoBank.pdb
+C:\Temp\NewCoBank\obj\Debug\NewCoBank.csproj.AssemblyReference.cache
+C:\Temp\NewCoBank\obj\Debug\NewCoBank.csproj.CoreCompileInputs.cache
+C:\Temp\NewCoBank\obj\Debug\NewCoBank.pdb
+C:\Temp\NewCoBank\bin\Debug\NewCoBank.exe.config
+C:\Temp\NewCoBank\bin\Debug\NewCoBank.exe
+C:\Temp\NewCoBank\obj\Debug\NewCoBank.exe
+C:\Temp\NewCoBankDev\bin\Debug\NewCoBank.exe.config
+C:\Temp\NewCoBankDev\bin\Debug\NewCoBank.exe
+C:\Temp\NewCoBankDev\bin\Debug\NewCoBank.pdb
+C:\Temp\NewCoBankDev\obj\Debug\NewCoBank.csproj.AssemblyReference.cache
+C:\Temp\NewCoBankDev\obj\Debug\NewCoBank.csproj.CoreCompileInputs.cache
+C:\Temp\NewCoBankDev\obj\Debug\NewCoBank.exe
+C:\Temp\NewCoBankDev\obj\Debug\NewCoBank.pdb
